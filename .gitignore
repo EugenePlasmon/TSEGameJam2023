@@ -1,0 +1,22 @@
+# Unity project
+
+Assets/
+Library/
+Logs/
+Packages/
+UserSettings/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+# Wwise
+
+.backup*
+.cache*
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+AkWwiseProjectData.asset
+IncrementalSoundBankData.xml
